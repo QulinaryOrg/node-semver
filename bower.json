@@ -1,0 +1,18 @@
+{
+  "name": "semver-bower",
+  "description": "The semantic version parser used by npm but ported to bower/browser global.",
+  "main": "semver-browser.js",
+  "license": "ISC",
+  "keywords": [
+    "semver",
+    "semantic",
+    "versioning",
+    "bower",
+    "browser",
+    "utils"
+  ],
+  "homepage": "https://github.com/QulinaryOrg/node-semver",
+  "moduleType": [
+    "globals"
+  ]
+}
